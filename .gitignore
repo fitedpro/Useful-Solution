@@ -1,4 +1,16 @@
-# IntellijIdea files
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
 *.iml
-.idea
-out
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
