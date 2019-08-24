@@ -1,4 +1,4 @@
-/*
+package solutions;/*
     Minimum value with different number input values
  */
 

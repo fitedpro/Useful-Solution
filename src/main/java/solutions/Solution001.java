@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution001 {
     /*
         Calculate the length of the entered number INT
